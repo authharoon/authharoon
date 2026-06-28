@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Haroon 👋
 
-<!--
-**authharoon/authharoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Python Web Scraping Specialist
 
-Here are some ideas to get you started:
+I specialize in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web Scraping using Python
+- Selenium Automation
+- Parsel Data Extraction
+- Google Maps Scraping
+- Lead Generation
+- Ecommerce Data Scraping
+- Dynamic Website Scraping
+- CSV, Excel & JSON Data Export
+
+### Tools & Technologies
+
+- Python
+- Selenium
+- Parsel
+- Requests
+- BeautifulSoup
+- Pandas
+- CSV / Excel
+- Git & GitHub
+
+### Current Focus
+
+Building reliable web scrapers and automation tools that help businesses collect clean and structured data efficiently.
+
+📫 Feel free to connect and collaborate!
