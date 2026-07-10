@@ -1,78 +1,52 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4EC9B0&height=170&section=header&text=Haroon&fontSize=55&animation=twinkling&fontAlignY=35&fontColor=ffffff" width="100%"/>
+# Hi, I'm Haroon 👋
 
-**Python Web Scraping Specialist | Selenium & Parsel | Data Extraction | Automation**
+### 🚀 Python Web Scraping Specialist
 
 </div>
 
 ---
 
-### Who I Am
+## 🔍 I Specialize In
 
-I build Python-based scrapers and automation tools that extract data from any website and turn it into clean, structured datasets. My work covers handling dynamic content with Selenium and Parsel, and delivering results in ready-to-use Excel formats with Openpyxl.
-
-The projects below are sample builds showing this workflow in action.
-
-I'm open to freelance and collaborative work involving web scraping, automation, and data extraction.
+- Web Scraping using Python
+- Selenium Automation
+- Parsel Data Extraction
+- Google Maps Scraping
+- Lead Generation
+- Ecommerce Data Scraping
+- Dynamic Website Scraping
+- CSV, Excel & JSON Data Export
 
 ---
 
-### Featured Projects
-
-#### Airbnb Scraper
-
-A Python-based scraper for extracting listing information, including pricing, location, ratings, and reviews, exported to a structured Excel file.
+## 🛠️ Tools & Technologies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=authharoon&repo=airbnb_scraper&theme=nord&border_color=4ec9b0&title_color=4ec9b0" />
+
+![Python](https://img.shields.io/badge/Python-4EC9B0?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-4EC9B0?style=for-the-badge&logo=selenium&logoColor=white)
+![Parsel](https://img.shields.io/badge/Parsel-4EC9B0?style=for-the-badge&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-4EC9B0?style=for-the-badge&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4EC9B0?style=for-the-badge&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-4EC9B0?style=for-the-badge&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/CSV%20%2F%20Excel-4EC9B0?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-4EC9B0?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-4EC9B0?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
-
-| Layer          | Technology                  |
-|----------------|------------------------------|
-| Language       | Python                      |
-| Scraping       | Requests, Parsel            |
-| Data Handling  | Openpyxl                    |
-| Output         | Excel                       |
-
-🔗 [Code](https://github.com/authharoon/airbnb_scraper)
 
 ---
 
-#### Google Maps Business Data Collection
+## 🎯 Current Focus
 
-A sample dataset demonstrating a custom scraper — collecting business names, contact details, ratings, hours, and location data.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=authharoon&repo=google_maps_data&theme=nord&border_color=4ec9b0&title_color=4ec9b0" />
-</div>
-
-| Layer          | Technology                  |
-|----------------|------------------------------|
-| Language       | Python                      |
-| Scraping       | Requests, Parsel, Selenium  |
-| Data Handling  | Openpyxl                    |
-| Output         | Excel                       |
-
-🔗 [Code](https://github.com/authharoon/google_maps_data)
+Building reliable web scrapers and automation tools that help businesses collect clean and structured data efficiently.
 
 ---
 
-### Tech Stack
+## 📬 Connect
 
-| Layer          | Technology                  |
-|----------------|------------------------------|
-| Language       | Python                      |
-| Scraping       | Requests, Parsel, Selenium  |
-| Data Handling  | Openpyxl                    |
-| Output         | Excel                       |
+**Email:** [auth.haroon@gmail.com](mailto:auth.haroon@gmail.com)
 
----
-
-### Connect
-
-Email: [auth.haroon@gmail.com](mailto:auth.haroon@gmail.com)
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4EC9B0&height=120&section=footer" width="100%"/>
-</div>
+📫 Feel free to connect and collaborate!
