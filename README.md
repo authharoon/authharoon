@@ -23,7 +23,8 @@
 
 </div>
 
-I build custom scrapers tailored to any website, automate dynamic and JavaScript-heavy pages with Selenium, and extract precise data with Parsel from business listings and reviews to product pricing and lead data delivered in whatever format works best for you.
+I build custom web scrapers for virtually any website, including dynamic and JavaScript-heavy platforms. Using tools like Selenium and Parsel, I extract accurate, structured data ranging from business listings and reviews to product details, pricing, and leads. Every scraper is designed to be reliable, scalable, and tailored to your specific requirements, with data delivered in the format that works best for you.
+
 
 ---
 
@@ -49,7 +50,7 @@ I build custom scrapers tailored to any website, automate dynamic and JavaScript
 
 ## 🎯 Current Focus
 
-I'm currently focused on building reliable, scalable web scrapers and automation tools that help businesses collect clean, structured data efficiently. Whether it's extracting listings from a marketplace, gathering leads from Google Maps, or pulling product data from an ecommerce site, I design solutions that are fast, accurate, and easy to maintain — handling everything from anti-bot measures to large-scale data cleaning and export.
+I build reliable web scraping and automation solutions that help businesses collect accurate, structured data from almost any website. Whether it's a simple static site or a complex, dynamic platform, I create scalable scrapers that deliver clean, organized data in formats like Excel, CSV, or JSON. My focus is on building fast, maintainable solutions that handle large scale data extraction while ensuring accuracy and consistency.
 
 ---
 
